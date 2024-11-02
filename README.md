@@ -15,8 +15,8 @@
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ree9o&show_icons=true&theme=radical)
 
-   🌱　I'm 24 years old and I'm not an engineer. I'm currently working in customer service.  
-   👨‍💻　I'm looking for a future employer!
+   🌱　I'm 24 years old. I'm currently working in customer service.  
+   👨‍💻　I'm looking for a job!
 </div>
 
 ## Languages and Tools:
